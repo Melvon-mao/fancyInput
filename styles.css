@@ -2,12 +2,7 @@ html{ height:100%; }
 body{ height:100%; text-align:center; }
 #wrap{ min-width:600px; height:100%; position:relative; background:-webkit-radial-gradient(#205983, #0A2742); background:radial-gradient(#205983, #0A2742); overflow:hidden; }
 
-@font-face {
-  font-family: 'Fjalla One';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Fjalla One'), local('FjallaOne-Regular'), url(http://themes.googleusercontent.com/static/fonts/fjallaone/v1/rxxXUYj4oZ6Q5oDJFtEd6hsxEYwM7FgeyaSgU71cLG0.woff) format('woff');
-}
+
 
 *{ margin:0; padding:0; }
 
